@@ -1,2 +1,2 @@
 # RGB-in-Python
-Rgb
+this function return 0XAARRGGBB
